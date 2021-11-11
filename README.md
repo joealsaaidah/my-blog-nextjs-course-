@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Check out the online version of this project
 
-[My Blog - online version](https://www.ggogle.com) for real experiance.
+[My Blog - online version](https://my-blog-nextjs-course.vercel.app/) for real experiance.
 
 ## Learn More
 
