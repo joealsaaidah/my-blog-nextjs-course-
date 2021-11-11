@@ -10,12 +10,7 @@ npm install
 yarn add
 ```
 
-then, add the enviroment veriables for the database connection. This project uses mongodb. remane the file next.config1.js to next.config.js, then add your credentials:
-
-mongodb_username: "your username",
-mongodb_password: "your password",
-mongodb_clustername: "cluster name",
-mongodb_database: "database name",
+then, add the enviroment veriables for the database connection. This project uses mongodb. rename the file next.config1.js to next.config.js, and don't forgit to add your credentials.
 
 now, you can run the development server:
 
