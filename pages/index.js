@@ -8,7 +8,7 @@ const HomePage = (props) => {
   return (
     <Fragment>
       <Head>
-        <title>Joe&aposs Blog</title>
+        <title>Joe&aposs; Blog</title>
         <meta name='description' content='I blogs about coding' />
       </Head>
       <Hero />
