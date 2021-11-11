@@ -10,7 +10,14 @@ npm install
 yarn add
 ```
 
-then, run the development server:
+then, add the enviroment veriables for the database connection. This project uses mongodb. remane the file next.config1.js to next.config.js, then add your credentials:
+
+mongodb_username: "your username",
+mongodb_password: "your password",
+mongodb_clustername: "cluster name",
+mongodb_database: "database name",
+
+now, you can run the development server:
 
 ```bash
 npm run dev
@@ -19,10 +26,6 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Check out the online version of this project
-
-[My Blog - online version](https://my-blog-nextjs-course.vercel.app/) for real experiance.
 
 ## Learn More
 
